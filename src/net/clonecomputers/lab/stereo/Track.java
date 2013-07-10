@@ -1,4 +1,4 @@
-package clone.lab;
+package net.clonecomputers.lab.stereo;
 
 public class Track{
 	public final int id;
